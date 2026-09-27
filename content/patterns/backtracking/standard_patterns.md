@@ -2,11 +2,13 @@
 title: "Standard Backtracking Patterns"
 ---
 
+![Standard Backtracking Patterns](/dsa/standard_backtracking.png)
+
 ## When to use
 
 - You need to find **all** possible solutions or paths.
 - The problem asks for combinations, permutations, subsets, or solving constraints (Sudoku, N-Queens).
-- The constraints are extremely small (e.g., $N \le 20$).
+- The constraints are extremely small (e.g., N <= 20).
 
 ## Edge Cases
 
